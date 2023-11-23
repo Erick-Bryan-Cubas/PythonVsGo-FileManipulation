@@ -1,0 +1,3 @@
+Tempo decorrido: 26.9621604 segundos
+Uso de CPU Antes: 0.67%, Depois: 3.86%
+Uso de Memória Antes: 83.00%, Depois: 86.00%

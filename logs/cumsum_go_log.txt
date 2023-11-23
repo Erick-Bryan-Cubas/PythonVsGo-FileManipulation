@@ -1,0 +1,29 @@
+Time elapsed: 24.9155469s
+CPU Usage Before: 0%, After: 4.340665804023057%
+Memory Usage Before: 6241 MB, After: 6311 MB
+LJ08.xlsx: Cumsum = 98680
+LJ16.xlsx: Cumsum = 154944
+LJ17.xlsx: Cumsum = 118626
+LJ02 .xlsx: Cumsum = 12380
+LJ05.xlsx: Cumsum = 26790
+LJ09.xlsx: Cumsum = 58257
+LJ11.xlsx: Cumsum = 76989
+LJ18.xlsx: Cumsum = 98334
+LJ28.xlsx: Cumsum = 178192
+LJ31.xlsx: Cumsum = 199237
+LJ13.xlsx: Cumsum = 43303
+LJ26.xlsx: Cumsum = 247260
+LJ20.xlsx: Cumsum = 105000
+LJ23.xlsx: Cumsum = 118657
+LJ06.xlsx: Cumsum = 34254
+LJ07.xlsx: Cumsum = 53739
+LJ12.xlsx: Cumsum = 66804
+LJ30).xlsx: Cumsum = 200190
+LJ03.xlsx: Cumsum = 13482
+LJ04.xlsx: Cumsum = 22032
+LJ01.xlsx: Cumsum = 4174
+LJ10.xlsx: Cumsum = 48640
+LJ14.xlsx: Cumsum = 59094
+LJ15.xlsx: Cumsum = 75150
+LJ25.xlsx: Cumsum = 124150
+LJ29.xlsx: Cumsum = 195344

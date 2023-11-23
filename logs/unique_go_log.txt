@@ -1,0 +1,29 @@
+Time elapsed: 24.9300753s
+CPU Usage Before: [0]%, After: [4.549016534739733]%
+Memory Usage Before: 86%, After: 83%
+LJ15.xlsx: 5011 linhas únicas
+LJ30).xlsx: 6674 linhas únicas
+LJ08.xlsx: 12336 linhas únicas
+LJ14.xlsx: 4222 linhas únicas
+LJ09.xlsx: 6474 linhas únicas
+LJ11.xlsx: 7000 linhas únicas
+LJ28.xlsx: 6365 linhas únicas
+LJ03.xlsx: 4495 linhas únicas
+LJ06.xlsx: 5710 linhas únicas
+LJ25.xlsx: 4967 linhas únicas
+LJ29.xlsx: 6737 linhas únicas
+LJ10.xlsx: 4865 linhas únicas
+LJ16.xlsx: 9685 linhas únicas
+LJ23.xlsx: 5160 linhas únicas
+LJ04.xlsx: 5509 linhas únicas
+LJ18.xlsx: 5464 linhas únicas
+LJ26.xlsx: 9511 linhas únicas
+LJ07.xlsx: 7678 linhas únicas
+LJ20.xlsx: 5251 linhas únicas
+LJ17.xlsx: 6979 linhas únicas
+LJ31.xlsx: 6428 linhas únicas
+LJ05.xlsx: 5359 linhas únicas
+LJ12.xlsx: 5568 linhas únicas
+LJ01.xlsx: 4175 linhas únicas
+LJ02 .xlsx: 6191 linhas únicas
+LJ13.xlsx: 3332 linhas únicas

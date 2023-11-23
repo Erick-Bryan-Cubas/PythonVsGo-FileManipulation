@@ -1,0 +1,3 @@
+Time elapsed: 13.6273386s
+CPU Usage Before: 0%, After: 7.3041359042115035%
+Memory Usage Before: 6260 MB, After: 6376 MB
